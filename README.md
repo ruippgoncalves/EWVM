@@ -15,3 +15,11 @@ Esta aplicação é disponibilizada de várias formas:
 - Está instalada num servidor do DI/UM e pode ser usada por qualquer um através da internet no link: [https://ewvm.epl.di.uminho.pt/](https://ewvm.epl.di.uminho.pt/);
 - Este repositório GIT é público, permitindo que qualquer pessoa o possa copiar para a sua máquina: `git clone https://github.com/jcramalho/EWVM.git`;
 - Existe também uma imagem Docker pública atualizada no Hub que pode ser descarregada: `docker pull ewvm`.
+
+## Nova versão (2026-05-20)
+
+A versão constante neste repositório será mantida como está.
+Uma nova versão foi desenvolvida, com tecnologia mais atualizada e modular.
+A nova versão está a ser disponiobilizada noutro repositório: [Link para o Git da nova versão](https://github.com/jcramalho/VM_NextGen)
+
+---
